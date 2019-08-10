@@ -1,5 +1,9 @@
 require_relative "lib/dog_new.rb"
 
+lassie = Dog.new
+fido = Dog.new
+tuna = Dog.new
+
 puts lassie.name
 puts fido.name
 puts tuna.name
