@@ -1,4 +1,4 @@
-require_relative "../lib/dog_new.rb"
+require_relative "./lib/dog_new.rb"
 
 puts lassie.name
 puts fido.name
